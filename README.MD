@@ -27,7 +27,7 @@ pdf2image.py is a Python script that extracts images from PDF files and stores t
 
 ## Execution
 
-git clone (this repo)
-cd (this repo)
-python pdf2image.py path/to/your/pdf/file.pdf
+- git clone (this repo)
+- cd (this repo)
+- python pdf2image.py path/to/your/pdf/file.pdf
 
